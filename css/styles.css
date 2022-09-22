@@ -67,7 +67,7 @@ main p{
         color: #373684;
         font-weight: bold;
 }
-#piano, #guitar, #violin{
+#Piano, #guitar, #violin{
         width: 29;
         float: left;
         margin: 0 2%;
@@ -76,7 +76,12 @@ main p{
       clear:left;
       background-color: #c0caf7;
       padding: 1% 2%;
+
 }
+#contact{
+    text-align: center;
+}
+
 #contact a {
           color: #4645a8;
           text-decoration: none;
